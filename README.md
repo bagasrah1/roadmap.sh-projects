@@ -8,7 +8,7 @@ Tujuan utama proyek ini adalah untuk menjaga konsistensi, mencatat progres, dan 
 ## 📌 Daftar Isi :
 <p>tugas yang saya latih di sini</p>
 
-* Single-Page HTML CV
+* Single-Page HTML CV = https://roadmap.sh/projects/single-page-cv
 * (segera menyusul...)
 
 ---
