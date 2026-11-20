@@ -1,1 +1,36 @@
+body {
+  background-color: blueviolet;
+  font-family: monospace;
+  color: white;
+  text-align: center;
+}
 
+img {
+  margin-top: 20px;
+  border-radius: 40px;
+  border: 8px solid;
+  border-color: skyblue;
+}
+
+h1 {
+  display: flex;
+  flex-direction: column;
+  background-color: none;
+}
+
+h2 {
+  background-color: aqua;
+  color: blueviolet;
+  padding: 10px;
+  margin: 6px;
+  border-radius: 10px;
+}
+
+a {
+  color: plum;
+  text-decoration: none;
+  border: 2px solid;
+  border-radius: 100px;
+  padding: 10px;
+  margin: 10px;
+}
